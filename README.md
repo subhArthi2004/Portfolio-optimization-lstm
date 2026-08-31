@@ -6,7 +6,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 
-An end-to-end quantitative finance pipeline that combines **Long Short-Term Memory (LSTM)** neural networks with **Modern Portfolio Theory (MPT)**. The system predicts asset price trajectories using continuous historical time-series sequences and optimizes asset allocation using **Sequential Least Squares Programming (SLSQP)** to maximize the Sharpe ratio.
+An end-to-end quantitative finance pipeline that combines **Long Short-Term Memory (LSTM)** neural networks with **Modern Portfolio Theory (MPT)**. The system predicts asset price trajectories using continuous historical time-series sequences and optimizes asset allocation using **Sequential Least Squares Programming (SLSQP)** to maximize the Sharpe ratio(highest return generated for the given level of risk).
 
 ---
 
