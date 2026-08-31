@@ -52,7 +52,7 @@ Traditional Mean-Variance Optimization (MVO) relies heavily on historical moving
 - **Deep Learning**: TensorFlow, Keras
 - **Quantitative Optimization**: SciPy (`scipy.optimize.minimize`)
 - **Financial Data Processing**: `yfinance`, Pandas, NumPy, Scikit-Learn
-- **Visualization**: Plotly Interactive Charts, Seaborn, Matplotlib
+- **Visualization**: Plotly Interactive Charts , Seaborn, Matplotlib
 
 ---
 
